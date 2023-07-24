@@ -6,7 +6,6 @@ import random
 tim = Turtle()
 t.colormode(255)
 
-colors = ["DodgerBlue", "DodgerBlue1", "DodgerBlue2", "DodgerBlue3", "DodgerBlue4", "tomato", "tomato1", "tomato2", "tomato3", "tomato4"]
 headings = [0, 90, 180, 270]
 tim.pensize(15)
 tim.speed("fastest")
